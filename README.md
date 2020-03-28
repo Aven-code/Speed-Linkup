@@ -3,3 +3,5 @@
 
 >04Day_homework是源文件
  capture是游戏截图
+
+游戏思路写在了 branch中
